@@ -3,5 +3,5 @@ export interface SimpleOptions {
 }
 
 export const defaults: SimpleOptions = {
-  text: 'The default text!',
+  text: 'The default text 1!',
 };
